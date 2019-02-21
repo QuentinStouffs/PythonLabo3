@@ -30,4 +30,4 @@ IMC Interprétation
 
 Un titre par catégorie
 
-Vous tester toutes les erreurs possibles d'encodage !
+Vous testez toutes les erreurs possibles d'encodage !
